@@ -1,5 +1,5 @@
 <div  align="center" >
-<img src="https://4nieenw3bx67ddmj3kxcvquta4hs4ibr7g7cvbfgcmfd6s6ze7bq.arweave.net/41BCNtsN_fGNidquKsKTBw8uIDH5viqEphMKP0vZJ8M" width="400" height="300"/>
+<img src="https://4nieenw3bx67ddmj3kxcvquta4hs4ibr7g7cvbfgcmfd6s6ze7bq.arweave.net/41BCNtsN_fGNidquKsKTBw8uIDH5viqEphMKP0vZJ8M" />
 </div>
 
 This is a curated list of amazing resources to kickstart your Solana development Journey
