@@ -4,7 +4,7 @@
 
 This is a curated list of amazing resources to kickstart your Solana development Journey
 
-##Overview
+## Overview
 
 The Solana Blockchain is one of the most talked-about technologies in the world right now. The demand for blockchain platform apps is also growing by the day, and as a result, blockchain solutions like Solana are growing at an amazing rate.
 
